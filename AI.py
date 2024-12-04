@@ -1,2 +1,2 @@
-ab=10
+ab=50
 print(ab)
